@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="GORADHAK-LAP" name="test.YahooRegistrationTest" tests="3" failures="0" timestamp="13 Jun 2016 13:46:13 GMT" time="0.015" errors="0">
+  <testcase name="testRegister" time="0.0" classname="test.YahooRegistrationTest"/>
+  <testcase name="testRegister" time="0.0" classname="test.YahooRegistrationTest"/>
+  <testcase name="testRegister" time="0.0" classname="test.YahooRegistrationTest"/>
+</testsuite>

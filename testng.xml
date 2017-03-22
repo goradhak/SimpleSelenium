@@ -1,0 +1,36 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Yahoo">
+
+
+<listeners>
+<listener class-name="testng_listeners.CustomListener"/>
+</listeners>
+
+
+<test name="xyz">
+	<classes>
+		<class name="testng_listeners.LoginTest"/>
+	</classes>
+</test>
+
+<!--  
+<test name="Yahoo Mail Test">
+    <classes>
+        <class name="test.YahooTest" ></class>  
+    </classes>
+</test>
+
+<test name="Yahoo news Test">
+    <classes>
+        <class name="test.YahooNewsTest" ></class>  
+    </classes>
+</test>
+
+<test name="Yahoo Register Test">
+    <classes>
+        <class name="test.YahooRegistrationTest" ></class>  
+    </classes>
+</test>-->
+
+
+</suite>
